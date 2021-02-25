@@ -1,3 +1,4 @@
+
 def find_min_in_nested_arrays(src)
   even_src = []
   row_index = 0
